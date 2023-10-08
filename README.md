@@ -1,7 +1,7 @@
 # CPU-Scheduling-Algorithm-Visualiser
 
 CPU Scheduling Visualizer is a web application designed to illustrate and simulate various CPU scheduling algorithms used in operating systems.<br>
-Algorithms Implemented: FCFS, SJF, SRTF, Round Robin
+Algorithms Implemented: FCFS, SJF, SRTF, Round Robin <br>
 Check out at: https://pythonop.github.io/CPU-Scheduling-Algorithm-Visualiser/
 
 
